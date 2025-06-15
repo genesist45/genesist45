@@ -4,7 +4,7 @@
 </div>
 
 ## 💫 About Me
-- 🎓 I'm currently taking a Bachelor of Science in Information Technology
+- 🎓 I’m currently a Bachelor of Science in Information Technology student
 - 💬 Ask me just about anything. I am happy to help. anything === just the things I know whaha
 
 ## 🌱 Currently Learning
