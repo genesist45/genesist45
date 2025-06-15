@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="banner.png" alt="Genesis Banner" width="100%" />
-</div>
+<img src="banner.png" alt="Genesis Banner" width="100%" />
 
 ## About Me
 - 🎓 I'm currently taking a Bachelor of Science in Information Technology
