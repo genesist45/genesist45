@@ -1,4 +1,7 @@
-<img src="banner.png" alt="Genesis Banner" width="100%" />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/genesist45/genesist45/main/banner.png" alt="Genesis Banner" width="100%" />
+</div>
 
 ## About Me
 - 🎓 I'm currently taking a Bachelor of Science in Information Technology
