@@ -1,4 +1,4 @@
-![Banner](banner.mp4)
+[![Banner](banner.mp4)](https://raw.githubusercontent.com/genesist45/genesist45/main/banner.mp4)
 
 ## About Me
 - 🎓 I'm currently taking a Bachelor of Science in Information Technology
