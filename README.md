@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/genesist45/genesist45/main/banner.png" alt="Genesis Banner" width="100%" />
 </div>
 
-## About Me
+## 💫 About Me
 - 🎓 I'm currently taking a Bachelor of Science in Information Technology
 - 💬 Ask me just about anything. I am happy to help. anything === just the things I know whaha
 
