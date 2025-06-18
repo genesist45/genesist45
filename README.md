@@ -6,6 +6,7 @@
 ## 💫 About Me :
 - 🎓 I’m currently a Bachelor of Science in Information Technology student
 - 💬 Ask me just about anything. I am happy to help. anything === just the things I know whaha
+- 🤝 I'm interested in collaborating on any future projects.
   
 ## 🌱 Currently Learning :
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
@@ -16,8 +17,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23E51050.svg?logo=autodesk&logoColor=white)
-
-- I'm interested in collaborating on any future projects 🤝.
 
 ## 🌐 Socials :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/clark.genesis.9400)
