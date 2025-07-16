@@ -5,7 +5,7 @@
 
 ## **Hi there!** Wassup 👋
 
-I'm an aspiring web developer passionate about building clean and responsive apps, and can do  backend development.
+I'm an aspiring web developer passionate about building clean and responsive apps.
 
 
 
