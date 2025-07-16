@@ -2,11 +2,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/genesist45/genesist45/main/banner.png" alt="Genesis Banner" width="100%" />
 </div>
+
 ## **Hi there!** Wassup 👋
 
 I'm an aspiring frontend developer passionate about building clean and responsive apps, and I also have experience in backend development.
 
----
+
 
 ## 💫 About Me :
 - 🎓 I’m currently a Bachelor of Science in Information Technology student
