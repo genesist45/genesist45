@@ -32,6 +32,9 @@ I'm an aspiring web developer passionate about building clean and responsive app
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](javascript:void(0))
 
 
-## 📊 GitHub Stats:
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=genesist45&theme=dark&show_icons=true)](https://github.com/genesist45/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=genesist45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=genesist45&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
