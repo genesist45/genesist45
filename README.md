@@ -33,10 +33,7 @@ I'm an aspiring web developer passionate about building clean and responsive app
 </div>
 
 <h4 align="left">Deployment / Hosting</h4>
-###
 <div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
