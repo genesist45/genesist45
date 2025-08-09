@@ -33,7 +33,7 @@ I'm an aspiring web developer passionate about building clean and responsive app
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=genesist45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<img src="stats.png" alt="GitHub Stats" style="border-radius: 10px; max-width: 100%; height: auto; margin: 20px auto; display: block;" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=genesist45&limit=5&theme=dark&combine_all_yearly_contributions=true)
