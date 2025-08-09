@@ -50,7 +50,7 @@ I'm an aspiring web developer passionate about building clean and responsive app
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
     <a href="https://genesis-peach-delta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-GENESIS45T-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-GENESIS45T-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
