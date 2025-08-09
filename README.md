@@ -27,14 +27,9 @@ I'm an aspiring web developer passionate about building clean and responsive app
 </div>
 
 ## 🌐 Socials :
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/clark.genesis.9400)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](javascript:void(0))
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](javascript:void(0))
-
-
-# 📊 GitHub Stats:
-<img src="stats.png" alt="GitHub Stats" style="border-radius: 10px; max-width: 100%; height: auto; margin: 20px auto; display: block;" />
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=genesist45&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</div>
 
