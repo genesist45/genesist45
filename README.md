@@ -16,20 +16,19 @@ I'm an aspiring web developer passionate about building clean and responsive app
   
 ## 📚 Currently Learning :
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <h5>Languages:</h5>
+  <h4>Languages:</h4>
   <div style="display: flex; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
   </div>
-  <h5>Frameworks/Libraries:</h5>
+  <h4>Frameworks/Libraries:</h4>
   <div style="display: flex; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS" />
     <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40" alt="Laravel" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
   </div>
 </div>
 
