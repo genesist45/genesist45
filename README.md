@@ -15,14 +15,12 @@ I'm an aspiring web developer passionate about building clean and responsive app
 - 🤝 I'm interested in collaborating on any future projects.
   
 ## 📚 Currently Learning :
-
 ### 🚀 Languages:
 <div style="display: flex; gap: 10px; align-items: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
 </div>
-
 ### 🧰 Frameworks/Libraries:
 <div style="display: flex; gap: 10px; align-items: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
