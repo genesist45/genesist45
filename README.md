@@ -32,4 +32,4 @@ I'm an aspiring web developer passionate about building clean and responsive app
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](javascript:void(0))
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=genesist45)](https://github.com/genesist45/github-readme-stats)
