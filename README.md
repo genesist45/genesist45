@@ -32,6 +32,17 @@ I'm an aspiring web developer passionate about building clean and responsive app
   </div>
 </div>
 
+<p align="left">☁️ Deployment / Hosting</p>
+
+###
+
+<div align="left">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+</div>
+
 ## 🌐 Socials :
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
