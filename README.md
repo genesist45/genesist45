@@ -10,8 +10,8 @@ I'm an aspiring web developer passionate about building clean and responsive app
 
 
 ## 💫 About Me :
-- 🎓 I’m currently a Bachelor of Science in Information Technology student
-- 💬 Ask me just about anything. I am happy to help. anything === just the things I know whaha
+- 🎓 I'm a 3rd-year student pursuing a Bachelor of Science in Information Technology.
+- 💬 I'm focused on learning and improving in areas such as backend development and frontend design.
 - 🤝 I'm interested in collaborating on any future projects.
   
 ## 📚 Currently Learning :
