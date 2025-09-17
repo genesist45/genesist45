@@ -11,8 +11,8 @@ I'm an <b>aspiring web developer</b> passionate about building clean and respons
 
 ## 💫 About Me :
 - 🎓 I'm a 3rd-year student pursuing a Bachelor of Science in Information Technology.
-- 💬 I'm focused on learning and improving in areas such as backend development and frontend design.
-- 🤝 I'm interested in collaborating on any future projects.
+- 💬 I'm focused on learning and improving in areas such as backend development.
+- 🤝 I'm looking forward in collaborating on any future projects.
   
 ## 📚 Currently Learning :
 <div style="display: flex; flex-direction: column; align-items: center;">
