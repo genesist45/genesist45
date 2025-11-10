@@ -15,7 +15,7 @@ I'm an <b>aspiring web developer</b> passionate about building clean and respons
 -  I'm looking forward in collaborating on any future projects.
 -  All of my projects are available here soon.
   
-## 📚 My Tech Stack:
+## 📚 Tech Stack:
 <div style="display: flex; flex-direction: column; align-items: center;">
   <h4>Languages:</h4>
   <div style="display: flex; gap: 20px;">
