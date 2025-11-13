@@ -5,7 +5,7 @@
 
 ## **Hi there!** Wassup 👋
 
-I'm an <b>Aspiring Web Developer</b> passionate about building clean and responsive apps.
+I'm a <b>Aspiring Web Developer</b> passionate about building clean and responsive apps.
 
 
 
