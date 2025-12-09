@@ -28,24 +28,6 @@ I'm a <b>Aspiring Web Developer</b> passionate about building clean and responsi
 </div>
 
 <br clear="both">
-
-## 🌐 Socials :
-<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-  <a href="https://www.facebook.com/clark.genesis.9400" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/genesis-clark-0ab92836b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-    <a href="https://genesis-peach-delta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/genesist45-000000?style=for-the-badge" alt="genesist45" />
-  </a>
-</div>
-
-<br clear="both">
 <!---->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph-dark.svg">
@@ -63,3 +45,21 @@ I'm a <b>Aspiring Web Developer</b> passionate about building clean and responsi
 ---
 [![](https://visitcount.itsvg.in/api?id=xcho7i&icon=2&color=1)](https://visitcount.itsvg.in)
 <!---->
+
+<br clear="both">
+
+## 🌐 Socials :
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+  <a href="https://www.facebook.com/clark.genesis.9400" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/genesis-clark-0ab92836b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+    <a href="https://genesis-peach-delta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/genesist45-000000?style=for-the-badge" alt="genesist45" />
+  </a>
+</div>
