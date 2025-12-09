@@ -10,10 +10,11 @@ I'm a <b>Aspiring Web Developer</b> passionate about building clean and responsi
 
 
 ## 💫 About Me :
--  I'm a 3rd-year student pursuing a <b>Bachelor of Science in Information Technology</b>.
--  I'm passionate building <b>Full-Stack Web Applications</b> with modern technologies.
--  I'm looking forward in collaborating on any future projects.
--  All of my projects are available here soon.
+  I’m a 3rd-year Bachelor of Science in Information Technology student with a strong interest in building full-stack web applications using modern technologies. I’m continuously improving my skills and I enjoy exploring new tools, frameworks, and development practices that help me grow as a developer.
+
+I’m always excited to collaborate on future projects, contribute ideas, and learn from other developers along the way. My projects will be available here soon.
+
+I consider myself a lifelong learner, motivated to innovate and bring meaningful solutions that can create real value in the tech community.
   
 ## 📚Tech Stack:
 <div style="display: flex; flex-direction: column; align-items: center;">
