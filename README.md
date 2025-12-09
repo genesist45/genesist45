@@ -46,7 +46,7 @@ I'm a <b>Aspiring Web Developer</b> passionate about building clean and responsi
 [![](https://visitcount.itsvg.in/api?id=xcho7i&icon=2&color=1)](https://visitcount.itsvg.in)
 <!---->
 ## 🌐 Socials :
-<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; gap: 2px; align-items: center; flex-wrap: wrap;">
   <a href="https://www.facebook.com/clark.genesis.9400" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
