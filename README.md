@@ -27,6 +27,24 @@ I'm a <b>Aspiring Web Developer</b> passionate about building clean and responsi
   </div>
 </div>
 
+<br clear="both">
+<!---->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+<h2 align="center">Profile View</h1>
+<div align="center">
+  <img src="https://count.getloli.com/@:RikuSato0?name=%3ARikuSato0&theme=gelbooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=0"  />
+</div>
+
+###
+---
+[![](https://visitcount.itsvg.in/api?id=xcho7i&icon=2&color=1)](https://visitcount.itsvg.in)
+<!---->
 ## 🌐 Socials :
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
   <a href="https://www.facebook.com/clark.genesis.9400" target="_blank">
