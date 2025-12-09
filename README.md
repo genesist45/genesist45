@@ -36,14 +36,6 @@ I'm a <b>Aspiring Web Developer</b> passionate about building clean and responsi
 </picture>
 
 ###
-<h2 align="center">Profile View</h1>
-<div align="center">
-  <img src="https://count.getloli.com/@:RikuSato0?name=%3ARikuSato0&theme=gelbooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=0"  />
-</div>
-
-###
----
-[![](https://visitcount.itsvg.in/api?id=xcho7i&icon=2&color=1)](https://visitcount.itsvg.in)
 <!---->
 ## 🌐 Socials :
 <div style="display: flex; gap: 2px; align-items: center; flex-wrap: wrap;">
