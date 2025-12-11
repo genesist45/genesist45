@@ -27,9 +27,6 @@ I'm a <b>Aspiring Web Developer</b> passionate about building clean and responsi
   </div>
 </div>
 
-<br clear="both">
-
-###
 <!---->
 ## 🌐 Socials :
 <div style="display: flex; gap: 2px; align-items: center; flex-wrap: wrap;">
