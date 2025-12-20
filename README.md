@@ -28,6 +28,8 @@ I'm a <b>Aspiring Web Developer</b> passionate about building clean and responsi
 </div>
 
 <!---->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<!---->
 ## 🌐 Socials :
 <div style="display: flex; gap: 2px; align-items: center; flex-wrap: wrap;">
   <a href="https://www.facebook.com/clark.genesis.9400" target="_blank">
