@@ -28,7 +28,7 @@ I'm a <b>Aspiring Web Developer</b> passionate about building clean and responsi
 </div>
 
 <!---->
-![Genesis's GitHub stats](https://github-readme-stats.vercel.app/api?username=genesist45&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+  <img alt="Genesis's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=genesist45&show_icons=true&theme=transparent"/>
 <!---->
 ## 🌐 Socials :
 <div style="display: flex; gap: 2px; align-items: center; flex-wrap: wrap;">
