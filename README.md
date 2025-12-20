@@ -26,10 +26,13 @@ I'm a <b>Aspiring Web Developer</b> passionate about building clean and responsi
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40" height="40" alt="Next.js" />
   </div>
 </div>
-
+##
+##  📈 Github Stats:
 <!---->
   <img alt="Genesis's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=genesist45&show_icons=true&theme=transparent"/>
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genesis45t&layout=compact&&langs_count=8"/>
 <!---->
+##
 ## 🌐 Socials :
 <div style="display: flex; gap: 2px; align-items: center; flex-wrap: wrap;">
   <a href="https://www.facebook.com/clark.genesis.9400" target="_blank">
