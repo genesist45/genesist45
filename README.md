@@ -11,9 +11,8 @@ I'm a <b>Aspiring Web Developer</b> passionate about building clean and responsi
 
 ## 💫 About Me :
 - I'm a 3rd-year student pursuing a Bachelor of Science in Information Technology.
-- I'm passionate about building Full-Stack Web Applications with modern technologies.
+- I'm passionate about building <b>Full-Stack Applications</b> with modern technologies.
 - I'm looking forward to collaborating on future projects.
-- All of my projects will be available here soon.
   
 ## 📚Tech Stack:
 <div style="display: flex; flex-direction: column; align-items: center;">
@@ -24,6 +23,8 @@ I'm a <b>Aspiring Web Developer</b> passionate about building clean and responsi
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS" />
     <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40" alt="Laravel" />
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40" height="40" alt="Next.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
   </div>
 </div>
 
