@@ -23,8 +23,6 @@ I'm a <b>Aspiring Web Developer</b> passionate about building clean and responsi
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS" />
     <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40" alt="Laravel" />
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40" height="40" alt="Next.js" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
   </div>
 </div>
 
