@@ -10,7 +10,7 @@ I'm an <b>Aspiring Web Developer</b> passionate about building clean, responsive
 
 
 ## 💫 About Me :
-- I'm a 3rd-year student pursuing a Bachelor of Science in Information Technology.
+- I'm a 3rd-year student pursuing a <b>Bachelor of Science in Information Technology</b>.
 - I'm passionate about building <b>Full-Stack Applications</b> with modern technologies.
 - I'm looking forward to collaborating on future projects.
   
