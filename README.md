@@ -28,7 +28,7 @@ I'm an <b>Aspiring Web Developer</b> passionate about building clean, responsive
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/ios-filled/60/000000/nextjs.png" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="60" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
   <img width="12" />
