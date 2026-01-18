@@ -28,9 +28,7 @@ I'm an <b>Aspiring Web Developer</b> passionate about building clean, responsive
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
   <img width="12" />
-  <div style="background: #242938; border-radius: 10px; padding: 10px; display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/nextjs.svg" height="40" alt="nextjs logo" />
-</div>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
   <img width="12" />
