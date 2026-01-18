@@ -15,7 +15,7 @@ I'm an <b>Aspiring Web Developer</b> passionate about building clean, responsive
 - I'm looking forward to collaborating on future projects.
   
 ## 📚Tech Stack:
-<div style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
+<div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
