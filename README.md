@@ -37,11 +37,6 @@ I'm an <b>Aspiring Web Developer</b> passionate about building clean, responsive
   <img src="https://skillicons.dev/icons?i=electron" height="60" alt="electron logo"  />
 </div>
 
-## 📊 GitHub Stats:
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=genesist45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-</div>
-
 ## 🌐 Socials :
 <div style="display: flex; gap: 2px; align-items: center; flex-wrap: wrap;">
   <a href="https://www.facebook.com/clark.genesis.9400" target="_blank">
