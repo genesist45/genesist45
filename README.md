@@ -38,7 +38,11 @@ I'm an <b>Aspiring Web Developer</b> passionate about building clean, responsive
 </div>
 
 
-
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=genesist45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genesist45&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</div>
 
 
 ## 🌐 Socials :
