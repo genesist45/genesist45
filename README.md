@@ -16,9 +16,11 @@ I'm an <b>Aspiring Web Developer</b> passionate about building clean, responsive
   
 ## 📚Tech Stack:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+  <br>Javascript
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+  <br>Typescript
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
   <img width="12" />
