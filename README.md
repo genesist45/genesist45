@@ -14,49 +14,52 @@ applications and APIs.
 - I'm looking forward to collaborating on future projects.
   
 ## 📚Tech Stack:
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
-      <br>Javascript
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="55" height="55" />
-      <br>Typescript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
-      <br>React
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="90"></td>
-  </tr>
-</table>
+<div align="left">
+  <span style="display:inline-block; text-align:center; margin-right:18px;">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" /><br>
+    Javascript
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:18px;">
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="55" height="55" /><br>
+    Typescript
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:18px;">
+    <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" /><br>
+    PHP
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:18px;">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" /><br>
+    Python
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:18px;">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" /><br>
+    React
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:18px;">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" /><br>
+    Tailwind
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:18px;">
+    <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" /><br>
+    Laravel
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:18px;">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" /><br>
+    Next.js
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:18px;">
+    <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" /><br>
+    MySQL
+  </span>
+</div>
 
 ## 🌐 Socials :
 <div style="display: flex; gap: 2px; align-items: center; flex-wrap: wrap;">
