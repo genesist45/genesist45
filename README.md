@@ -5,7 +5,7 @@
 
 ## **Hi there!** Wassup 👋
 
-I'm an <b>Aspiring Web Developer</b> passionate about building Full-Stack websites and interactive web applications that combine clean design with efficient functionality and deploying production ready
+I'm an <b>Aspiring Web Developer</b> passionate building full stack websites and interactive web applications that combine clean design with efficient functionality and deploying production ready
 applications and APIs.
 
 
