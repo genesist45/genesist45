@@ -15,46 +15,25 @@ applications and APIs.
   
 ## 📚 Tech Stack:
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" /><br />
-      Javascript
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="55" height="55" /><br />
-      Typescript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45" /><br />
-      PHP
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" /><br />
-      Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" /><br />
-      React
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="45" height="45" /><br />
-      Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="45" height="45" /><br />
-      Laravel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="45" height="45" /><br />
-      Next.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45" /><br />
-      MySQL
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=javascript" height="48" alt="javascript logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="48" alt="typescript logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=php" height="48" alt="php logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="tailwindcss logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="48" alt="laravel logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="nextjs logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="python logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo" />
+</div>
 
 ## 🌐 Socials :
 <div style="display: flex; gap: 2px; align-items: center; flex-wrap: wrap;">
