@@ -56,7 +56,7 @@ applications and APIs.
     </td>
     <td align="center" width="90"></td>
   </tr>
-</table>>
+</table>
 
 ## 🌐 Socials :
 <div style="display: flex; gap: 2px; align-items: center; flex-wrap: wrap;">
