@@ -13,7 +13,7 @@ applications and APIs.
 - I'm a 3rd-year student pursuing a <b>Bachelor of Science in Information Technology</b>.
 - I'm looking forward to collaborating on future projects.
   
-## 📚 Tech Stack:
+## 📚 My Tech Stack:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=javascript" height="48" alt="javascript logo" />
